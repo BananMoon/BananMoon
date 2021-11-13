@@ -2,7 +2,7 @@
 
 <p align='center'>
 I'm Yoonji Moon, a growing developer.😄<br>
-I'm doing the best ⚡ <br>
+I always do my best in what I do. ⚡ <br>
 Please be my friend 👯
 </p>
 <br>
