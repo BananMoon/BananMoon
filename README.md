@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=75)
 
 <p align='center'>
 😄 I'm Yoonji Moon, a growing Back-End developer.😄<br>
