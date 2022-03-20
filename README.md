@@ -1,9 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=Welcome%20To%20my%20Github!&descAlignY=51&descAlign=74)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=72)
 
 <p align='center'>
-I'm Yoonji Moon, a growing Back-End developer.😄<br>
-I always do my best in what I do. ⚡ <br>
-Please be my friend 👯
+😄 I'm Yoonji Moon, a growing Back-End developer.😄<br>
+🌱 I'm currently doing Algorighthm Problem Solving, job search, study of Framework core 🌱<br>
+🤔 I’m looking for help with.. ✍️ writing beautiful code 🤔<br>
+📫 How to reach me? 👉 younji1115@gmail.com<br>
+
+</p>
+
+<p align='center'>
+  <a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>&nbsp
+</p>
+
 </p>
 <br>
 <!-- 가장 많이 사용된 언어
@@ -30,14 +38,11 @@ Please be my friend 👯
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAws&logoColor=white"/>
 </p>
 
-<h3 align="center">•••</h3>
+<!--<h3 align="center">•••</h3>-->
 
-<p align='center'>
-  <a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>&nbsp
-</p>
-<p align='center'>
+<!--<p align='center'>
   <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBananMoon&count_bg=%23BFEF9B&title_bg=%23F5D3D3&icon=github.svg&icon_color=%234F0F0A&title=hits&edge_flat=false"></a>
-</p>
+</p>-->
 
 <!--
 **BananMoon/BananMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,9 +52,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... writing beautiful code✍️
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: younji1115@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
