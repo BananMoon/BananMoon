@@ -4,8 +4,7 @@
 😄 I'm Yoonji Moon, a growing Back-End developer.😄<br>
 🌱 I'm currently doing Algorighthm Problem Solving, job search, study of Framework core 🌱<br>
 🤔 I’m looking for help with.. ✍️ writing beautiful code 🤔<br>
-📫 How to reach me? 👉 younji1115@gmail.com<br>
-
+📫 How to reach me? 👉 <u>younji1115@gmail.com</u> 👈<br>
 </p>
 
 <p align='center'>
