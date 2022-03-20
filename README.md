@@ -2,9 +2,12 @@
 
 <p align='center'>
 😄 I'm Yoonji Moon, a growing Back-End developer.😄<br>
-🌱 I'm currently doing Algorighthm Problem Solving, job search, study of Framework core 🌱<br>
+안녕하세요, 저는 꾸준히 성장 중인 백엔드 개발자 문윤지입니다.<br>
+🌱 I'm currently doing Algorighthm Problem Solving, job search, study of Framework core and Java 🌱<br>
+저는 현재 알고리즘 풀이, 직업 탐색, 자바와 프레임워크의 core 공부를 진행 중입니다.<br>
 🤔 I’m looking for help with.. ✍️ writing beautiful code 🤔<br>
-📫 How to reach me? 👉 <u>younji1115@gmail.com</u> 👈<br>
+저는 깨끗하고 유지보수 좋은 코드를 작성하는 것에 도움이 필요해요.<br>
+📫 How to reach me? 👉 <i>younji1115@gmail.com</i> 👈<br>
 </p>
 
 <p align='center'>
