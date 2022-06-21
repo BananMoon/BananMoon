@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=75)-->
 
-## 안녕하세요, 꾸준히 성장 중인 백엔드 개발자 문윤지입니다. 😄
+## 안녕하세요, 백엔드 개발자 문윤지입니다. 😄
 ```
 💻 끝까지 파고들어 몰입하는 것을 즐기고 자극이 있는 환경을 좋아합니다. 💻
 ```
