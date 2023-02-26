@@ -1,12 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=75)-->
 
 ## 안녕하세요, 백엔드 개발자 문윤지입니다.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananMoon&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![moonz's github stats](https://github-readme-stats.vercel.app/api?username=BananMoon&show_icons=true&hide_border=true)
-<br>
----
 
-<a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a><br>
 📚 <b>Technology Stack</b> 📚
 <br>
 **Tool**:<br> 
@@ -21,7 +16,13 @@
   <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=Css3&logoColor=white"/>
 <br>
 
+<a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananMoon&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![moonz's github stats](https://github-readme-stats.vercel.app/api?username=BananMoon&show_icons=true&hide_border=true)
+<br>
 <!--<h3 align="center">•••</h3>
 
 😄 안녕하세요, 꾸준히 성장 중인 백엔드 개발자 문윤지입니다. 😄<br>
