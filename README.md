@@ -1,29 +1,41 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=75)-->
 
 ## 안녕하세요, 백엔드 개발자 문윤지입니다.
+회사에서는 주어지는 일 외에도 할 일을 찾아서 해나가고 있고,<br>
+집에서는 Side Project와 개발 공부를 하고 있습니다.
 
-📚 <b>Technology Stack</b> 📚
-<br>
-**Tool**:<br> 
-  <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img alt="MYSQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAws&logoColor=white"/>
-  <br>
-  **Language** : <br>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/><br>
-  Basic : <br>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=Css3&logoColor=white"/>
-<br>
-
-<a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>
-
----
+개인 저장소 : <a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananMoon&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![moonz's github stats](https://github-readme-stats.vercel.app/api?username=BananMoon&show_icons=true&hide_border=true)
-<br>
+<br><br>
+
+
+📚 <b>Technology Stack</b> 📚
+<br><br>
+지속적으로 사용 중인 :
+| **종류** | **대상** | **사용** |
+|--|--|--|
+| Framework | Spring | 사내 서비스, Side Project |
+| Language  | Java  |  사내 서비스, Side Project |
+| DB  | MySQL  | Side Project |
+| Testing tool  | JUnit5  |  사내 서비스, Side Project |
+| CI/CD  | Jenkins  |  사내 |
+| Language  | Java  |  사내 서비스, Side Project |
+
+알아가고 있는 :
+| **종류** | **대상** | **사용** |
+|--|--|--|
+| CI/CD | Kubernetes, Rancher  | 사내 |
+| DB  | Oracle, Redis  |  사내 서비스 |
+| Monitoring  | Grafana  |  사내 서비스 |
+
+사용 경험 있는 :
+| **종류** | **대상** | **사용** |
+|--|--|--|
+| Language | Javascript, Python  | Side Project |
+
+
 <!--<h3 align="center">•••</h3>
 
 😄 안녕하세요, 꾸준히 성장 중인 백엔드 개발자 문윤지입니다. 😄<br>
