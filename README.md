@@ -1,10 +1,11 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=moonz&fontSize=90&fontAlign=70&animation=fadeIn&fontAlignY=37&desc=welcome%20to%20my%20world!&descAlignY=51&descAlign=75)-->
 
-## 안녕하세요, 백엔드 개발자 문윤지입니다.
-회사에서는 주어지는 일 외에도 할 일을 찾아서 해나가고 있고,<br>
-집에서는 Side Project와 개발 공부를 하고 있습니다.
+## Hello! I'm Yoonji, Moon. 
+I'm working as a software engineer (back-end developer).<br>
+At work, I'm working on issues that need to be addressed within the team and focusing on what needs to be improved in the application.<br>
+At home, I am working on the side project and studying development.<br>
 
-개인 저장소 : <a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>
+Personal work (blog) : <a href="https://thisisprogrammingworld.tistory.com/"><img src="http://img.shields.io/badge/Tistory-FFD400?style=flat-square&logo=TV%20Time&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananMoon&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![moonz's github stats](https://github-readme-stats.vercel.app/api?username=BananMoon&show_icons=true&hide_border=true)
@@ -13,25 +14,25 @@
 
 📚 <b>Technology Stack</b> 📚
 <br><br>
-지속적으로 사용 중인 :
-| **종류** | **대상** | **사용** |
+Continuously used :
+| **Type** | **Tool** | **Where in use** |
 |--|--|--|
-| Framework | Spring | 사내 서비스, Side Project |
-| Language  | Java  |  사내 서비스, Side Project |
+| Framework | Spring | At work, Side Project |
+| Language  | Java  |  At work, Side Project |
 | DB  | MySQL  | Side Project |
-| Testing tool  | JUnit5  |  사내 서비스, Side Project |
-| CI/CD  | Jenkins  |  사내 |
-| Language  | Java  |  사내 서비스, Side Project |
+| Testing tool  | JUnit5  |  At work, Side Project |
+| CI/CD  | Jenkins  |  At work |
+| Language  | Java  |  At work, Side Project |
 
-알아가고 있는 :
-| **종류** | **대상** | **사용** |
+Getting to know :
+| **Type** | **Tool** | **Where in use** |
 |--|--|--|
-| CI/CD | Kubernetes, Rancher  | 사내 |
-| DB  | Oracle, Redis  |  사내 서비스 |
-| Monitoring  | Grafana  |  사내 서비스 |
+| CI/CD | Kubernetes, Rancher  | At work |
+| DB  | Oracle, Redis  |  At work |
+| Monitoring  | Grafana  |  At work |
 
-사용 경험 있는 :
-| **종류** | **대상** | **사용** |
+Experienced :
+| **Type** | **Tool** | **Where in use** |
 |--|--|--|
 | Language | Javascript, Python  | Side Project |
 
